@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Luciano-Augusto-Gama
-- Roterista / level designer
+- Roteirista / level designer
 
 <!---
 Luciano-Augusto-Gama/Luciano-Augusto-Gama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
